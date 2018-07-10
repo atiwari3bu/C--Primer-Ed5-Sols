@@ -1,4 +1,4 @@
-program_name=Ex_3.26.md
+program_name=Ex_3.45.cpp
 all:
 	g++ -std=c++11 $(program_name)
 	./a.out
