@@ -1,0 +1,5 @@
+(a) `sizeof(x) + y`
+(b) `sizeof(p->mem[i])`
+(c) `sizeof(a) < b`
+(d) `sizeof(f())`
+
